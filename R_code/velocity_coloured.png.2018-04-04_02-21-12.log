@@ -1,0 +1,50 @@
+INFO [2018-04-04 02:21:12] $x
+INFO [2018-04-04 02:21:12] list(pred_lr = tempdf[, "test.pred_lr_new"], pred_rf = tempdf[, 
+INFO [2018-04-04 02:21:12]     "test.pred_rf_new"], pred_svm = tempdf[, "test.pred_svm_new"])
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $filename
+INFO [2018-04-04 02:21:12] [1] "velocity_coloured.png"
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $col
+INFO [2018-04-04 02:21:12] [1] "transparent"
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $fill
+INFO [2018-04-04 02:21:12] c("cornflowerblue", "green", "yellow")
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $alpha
+INFO [2018-04-04 02:21:12] [1] 0.5
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $label.col
+INFO [2018-04-04 02:21:12] c("orange", "white", "darkorchid4", "white", "white", "darkgreen", 
+INFO [2018-04-04 02:21:12]     "white")
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cex
+INFO [2018-04-04 02:21:12] [1] 1.5
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $fontfamily
+INFO [2018-04-04 02:21:12] [1] "serif"
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $fontface
+INFO [2018-04-04 02:21:12] [1] "bold"
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cat.col
+INFO [2018-04-04 02:21:12] c("darkblue", "darkgreen", "orange")
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cat.cex
+INFO [2018-04-04 02:21:12] [1] 1.5
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cat.pos
+INFO [2018-04-04 02:21:12] [1] 0
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cat.dist
+INFO [2018-04-04 02:21:12] [1] 0.07
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $cat.fontfamily
+INFO [2018-04-04 02:21:12] [1] "serif"
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $rotation.degree
+INFO [2018-04-04 02:21:12] [1] 270
+INFO [2018-04-04 02:21:12] 
+INFO [2018-04-04 02:21:12] $margin
+INFO [2018-04-04 02:21:12] [1] 0.2
+INFO [2018-04-04 02:21:12] 

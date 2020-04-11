@@ -1,0 +1,7 @@
+INFO [2018-04-04 02:10:31] $x
+INFO [2018-04-04 02:10:31] list(pred_lr = tempdf[, "test.pred_lr_new"], pred_rf = tempdf[, 
+INFO [2018-04-04 02:10:31]     "test.pred_rf_new"], pred_svm = tempdf[, "test.pred_svm_new"])
+INFO [2018-04-04 02:10:31] 
+INFO [2018-04-04 02:10:31] $filename
+INFO [2018-04-04 02:10:31] [1] "jedit_b&w.png"
+INFO [2018-04-04 02:10:31] 

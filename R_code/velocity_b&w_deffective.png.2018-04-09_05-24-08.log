@@ -1,0 +1,7 @@
+INFO [2018-04-09 05:24:08] $x
+INFO [2018-04-09 05:24:08] list(pred_lr = tempdf_deffective[, "test.pred_lr_new"], pred_rf = tempdf_deffective[, 
+INFO [2018-04-09 05:24:08]     "test.pred_rf_new"], pred_svm = tempdf_deffective[, "test.pred_svm_new"])
+INFO [2018-04-09 05:24:08] 
+INFO [2018-04-09 05:24:08] $filename
+INFO [2018-04-09 05:24:08] [1] "velocity_b&w_deffective.png"
+INFO [2018-04-09 05:24:08] 
